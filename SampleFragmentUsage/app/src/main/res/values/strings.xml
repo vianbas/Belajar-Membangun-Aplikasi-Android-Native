@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleFragmentUsage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_first_fragment">Hola ini first fragment</string>
+    <string name="tv_second_fragment">Hola ini second fragment</string>
+    <string name="tv_third_fragment">Hola ini third fragment</string>
+    <string name="btn_first_fragment">Ke SecondFragment</string>
+    <string name="btn_second_fragment">Ke ThirdFragment</string>
+</resources>

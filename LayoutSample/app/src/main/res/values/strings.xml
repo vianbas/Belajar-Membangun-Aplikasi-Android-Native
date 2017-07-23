@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layout Sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_bookmark">Bookmark</string>
+    <string name="tv_harga">$74</string>
+    <string name="tv_waktu">Per night</string>
+    <string name="tv_nama_hotel">Hilton Hotel Isla Nublar Resort</string>
+    <string name="tv_alamat_hotel">Jurassic World Avenue, West island, 87 miles of Costa Rica</string>
+    <string name="tv_owner">Viko Manurung (owner)</string>
+    <string name="btn_book">Request to book</string>
+</resources>

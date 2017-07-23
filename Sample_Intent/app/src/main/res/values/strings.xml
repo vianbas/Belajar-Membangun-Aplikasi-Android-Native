@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample_Intent</string>
+    <string name="sub1_activity">Halo Ini Sub Activity 1</string>
+    <string name="sub2_activity">Halo Ini Sub Activity 1</string>
+    <string name="btn_sub1">Ke Activity Sub 1</string>
+    <string name="btn_sub2">Ke Activity Sub 2</string>
+    <string name="btn_dial">Ke Activity Dial</string>
+    <string name="et_taa">Training Aplikasi Android</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListJualMobil</string>
+    <string name="tv_title">Title</string>
+    <string name="tv_harga">Harga</string>
+    <string name="tv_lokasi">Lokasi</string>
+    <string name="tv_nego">Nego ? Hubungi Kami</string>
+    <string name="hello_world">Hello World</string>
+    <string name="title_activity_detail_mobil">Detail Mobil</string>
+    <string name="title_share">Share</string>
+</resources>
